@@ -1,8 +1,8 @@
 ---
 title: "Prediction Assignment Writeup"
 output:
-  pdf_document: default
   html_document: default
+  keep_md: true
 ---
 
 ```{r setup, include=FALSE}
